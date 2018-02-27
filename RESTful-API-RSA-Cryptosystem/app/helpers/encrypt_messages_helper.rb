@@ -1,0 +1,2 @@
+module EncryptMessagesHelper
+end
